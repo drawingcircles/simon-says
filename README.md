@@ -1,4 +1,13 @@
-# simon-says
-Full Stack Boot Camp
+# Simon Says
+
+How to play
+- 1 `open simon-says with preferred browser`
+- OR
+- 1 `open with vscode`
+- 2 `run liver server`
+
+
+
+
 
 All credit goes to Dr. Angela Yu
