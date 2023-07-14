@@ -5,9 +5,3 @@ How to play
 - OR
 - 1 `open with vscode`
 - 2 `run liver server`
-
-
-
-
-
-All credit goes to Dr. Angela Yu
